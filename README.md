@@ -1,6 +1,7 @@
 ## Hi, I´m Edgar 👋
 
-![BlueTechFuturisticArtificialIntelligenceVideo-ezgif com-crop](https://github.com/user-attachments/assets/0fda29f8-6b2f-429f-95d9-8a69b34fae2b)
+![BlueTechFuturisticArtificialIntelligenceVideo-ezgif com-resize (1)](https://github.com/user-attachments/assets/fe96a9ab-5318-4c63-a4ff-31f26d78ff55)
+
 
 
 <!--
