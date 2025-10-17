@@ -1,8 +1,8 @@
 ## Hi, I´m Edgar 👋
 
-
-![BlueTechFuturisticArtificialIntelligenceVideo-ezgif com-resize (2)](https://github.com/user-attachments/assets/d15798c4-48e7-4985-80f9-f5c372931ba3)
-
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/d15798c4-48e7-4985-80f9-f5c372931ba3" width="800">
+</p>
 
 
 <!--
