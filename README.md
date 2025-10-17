@@ -1,10 +1,7 @@
 ## Hi, I´m Edgar 👋
 
+![BlueTechFuturisticArtificialIntelligenceVideo-ezgif com-crop](https://github.com/user-attachments/assets/95ef8414-5d31-4bbc-bc8a-44fde9f3c060)
 
-
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/2bd645a9-2446-42c7-9a22-5b9169896ca0" width="400" autoplay loop muted playsinline></video>
-</p>
 
 <!--
 **Edgpan1721/Edgpan1721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
