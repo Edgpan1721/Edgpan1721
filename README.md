@@ -1,6 +1,10 @@
 ## Hi, I´m Edgar 👋
 
-<img src="https://i.imgur.com/njNwmXD.gif" width="600">
+
+
+https://github.com/user-attachments/assets/2bd645a9-2446-42c7-9a22-5b9169896ca0
+
+
 <!--
 **Edgpan1721/Edgpan1721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
