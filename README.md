@@ -1,7 +1,7 @@
 ## Hi, I´m Edgar 👋
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/d15798c4-48e7-4985-80f9-f5c372931ba3" width="500">
+  <img src="https://github.com/user-attachments/assets/d15798c4-48e7-4985-80f9-f5c372931ba3" width="700">
 </p>
 
 
