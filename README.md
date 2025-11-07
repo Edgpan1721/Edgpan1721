@@ -26,11 +26,12 @@ Passionate about **data analysis** and **process automation**, I'm currently foc
 
 📊 **Currently working as a Short-Term Demand Planner at YANBAL**, where I forecast product demand and build automated reports to support strategic decision-making. I'm also completing a **Data Analytics Bootcamp at TripleTen**, complementing my background in **Industrial Engineering** with skills in BI tools, programming, and statistical analysis.  
 
+🧠 I’m driven by the challenge of uncovering patterns in data and generating actionable insights that make a real business impact. I'm passionate about **continuous improvement**, **data logic**, and **transforming data into value**.  
+
 ## 🔧 Tools
 
 🐍 I work daily with tools such as **SQL**, **Python** (`pandas`, `plotly`, `matplotlib`), and **Power BI**. I’ve led projects involving **conversion funnels**, **A/A/B testing**, **operational efficiency analysis**, and the **development of interactive dashboards**. I also have experience creating **automated business solutions** using **Power Apps** and **Power Automate**.  
 
-🧠 I’m driven by the challenge of uncovering patterns in data and generating actionable insights that make a real business impact. I'm passionate about **continuous improvement**, **data logic**, and **transforming data into value**.  
 
 ---
 
